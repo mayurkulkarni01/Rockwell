@@ -1,0 +1,22 @@
+{
+  "name": "rockwell",
+  "version": "1.0.0",
+  "description": "\"Docker demo for exam\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurkulkarni01/Rockwell.git"
+  },
+  "author": "\"MAYUR\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayurkulkarni01/Rockwell/issues"
+  },
+  "homepage": "https://github.com/mayurkulkarni01/Rockwell#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
